@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RF System | Academic</title>
+    <link>https://example.com/tag/rf-system/</link>
+      <atom:link href="https://example.com/tag/rf-system/index.xml" rel="self" type="application/rss+xml" />
+    <description>RF System</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>RF System</title>
+      <link>https://example.com/tag/rf-system/</link>
+    </image>
+    
+    <item>
+      <title>L-Shape Highly Integrated Millimeter wave Phased Array Imaging System</title>
+      <link>https://example.com/project/example1/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example1/</guid>
+      <description>&lt;p&gt;A highly integrated millimeter-wave radar imaging system based on L-shaped antenna array is proposed and implemented.The system is based on the frequency modulation continuous wave phased array system, and consists of a frequency sweep source, a transmitting and receiving link, and a beamforming antenna with the function of transmitting and receiving switching.The antenna adopts a microstrip antenna, and the unit is designed to have a wide beam pattern, which is convenient for wide-angle scanning during the line array scanning process.When the radar system is working, first use the phase shifter of the transmitting channel in the beamforming chip to deflect the beam at a specific angle, and then the receiving link traverses through scanning N beams to find the target, and the echo data at this time is 1×N In the form of a matrix, the direction of the transmitting beam is changed until the entire imaging target is searched, and the received intermediate frequency reflects the distance information of the imaging target.With the wide application of millimeter-wave beamforming chips, compared with imaging systems using multi-beam systems, too many radio frequency channels and baseband ADCs are saved, and the overall integration level is improved. While ensuring a certain imaging accuracy , which greatly reduces the imaging cost.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miniaturized Millimeter wave Base Station Platform</title>
+      <link>https://example.com/project/example2/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example2/</guid>
+      <description>&lt;p&gt;A wide bandwidth angular scanning phased array antenna array working in 24.25~29.5GHz is proposed.The antenna is based on the mixed mode of monopole antenna and microstrip antenna, adding a symmetrical monopole antenna around the traditional microstrip antenna, extending the previous ±45° scan to ±60°.At the same time, in order to achieve miniaturization, on the basis of not affecting the performance of the antenna, the size of the antenna unit is set to 4mm×4mm, and the polarization isolation under the same unit can reach 20dB.At the same time, in order to further improve the isolation between units and avoid the occurrence of scanning blind spots, the defect-in-ground (DGS) technology is adopted to effectively remove the scanning blind spots in the band.As a verification, an 8×8 scale highly integrated phased array antenna array using beamforming chip phase shifting was designed and tested. The whole board achieves a wide operating bandwidth by laying out two different stacked SICL power splitters. Ensures uniformity of power reaching the chip while also ensuring high isolation between the two polarizations.The entire antenna aperture including the surrounding dummy elements is only 4cm×4cm, the measured antenna scanning angle can reach ±60°, and it works in the 5G millimeter wave frequency band, which is very suitable for broadband millimeter wave communication systems such as small base stations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

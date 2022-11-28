@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Academic</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://example.com/project/</link>
+    </image>
+    
+    <item>
+      <title>Benefit Analysis of Multi-Channel Radar Angular Resolution Based on Txx platform</title>
+      <link>https://example.com/project/example6/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example6/</guid>
+      <description>&lt;p&gt;Based on the Txx millimeter-wave radar platform, systematically analyzed the points formed within the human body by the millimeter-wave MIMO radar with the increase in the number of channels and the change in the number of solution angles under different angles, different distances, and different attitudes of the human body point cloud Quantity Benefit Analysis.&lt;/p&gt;
+&lt;p&gt;The figure shows only the change in the number of point clouds formed by static and moving human bodies under the current signal processing flow. From the results, it can be seen that moving targets can bring about an increase in the number of detected targets in the Doppler dimension. Provide more target point clouds.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>L-Shape Highly Integrated Millimeter wave Phased Array Imaging System</title>
+      <link>https://example.com/project/example1/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example1/</guid>
+      <description>&lt;p&gt;A highly integrated millimeter-wave radar imaging system based on L-shaped antenna array is proposed and implemented.The system is based on the frequency modulation continuous wave phased array system, and consists of a frequency sweep source, a transmitting and receiving link, and a beamforming antenna with the function of transmitting and receiving switching.The antenna adopts a microstrip antenna, and the unit is designed to have a wide beam pattern, which is convenient for wide-angle scanning during the line array scanning process.When the radar system is working, first use the phase shifter of the transmitting channel in the beamforming chip to deflect the beam at a specific angle, and then the receiving link traverses through scanning N beams to find the target, and the echo data at this time is 1×N In the form of a matrix, the direction of the transmitting beam is changed until the entire imaging target is searched, and the received intermediate frequency reflects the distance information of the imaging target.With the wide application of millimeter-wave beamforming chips, compared with imaging systems using multi-beam systems, too many radio frequency channels and baseband ADCs are saved, and the overall integration level is improved. While ensuring a certain imaging accuracy , which greatly reduces the imaging cost.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miniaturized Millimeter wave Base Station Platform</title>
+      <link>https://example.com/project/example2/</link>
+      <pubDate>Sun, 27 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example2/</guid>
+      <description>&lt;p&gt;A wide bandwidth angular scanning phased array antenna array working in 24.25~29.5GHz is proposed.The antenna is based on the mixed mode of monopole antenna and microstrip antenna, adding a symmetrical monopole antenna around the traditional microstrip antenna, extending the previous ±45° scan to ±60°.At the same time, in order to achieve miniaturization, on the basis of not affecting the performance of the antenna, the size of the antenna unit is set to 4mm×4mm, and the polarization isolation under the same unit can reach 20dB.At the same time, in order to further improve the isolation between units and avoid the occurrence of scanning blind spots, the defect-in-ground (DGS) technology is adopted to effectively remove the scanning blind spots in the band.As a verification, an 8×8 scale highly integrated phased array antenna array using beamforming chip phase shifting was designed and tested. The whole board achieves a wide operating bandwidth by laying out two different stacked SICL power splitters. Ensures uniformity of power reaching the chip while also ensuring high isolation between the two polarizations.The entire antenna aperture including the surrounding dummy elements is only 4cm×4cm, the measured antenna scanning angle can reach ±60°, and it works in the 5G millimeter wave frequency band, which is very suitable for broadband millimeter wave communication systems such as small base stations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Filtenna and filtenna array based on single mode resonator</title>
+      <link>https://example.com/project/example3/</link>
+      <pubDate>Thu, 25 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example3/</guid>
+      <description>&lt;p&gt;Aiming at the insertion loss problem caused by the filter in the millimeter wave transceiver, a millimeter wave filter antenna and a related phased array antenna design based on a single mode resonator are proposed.The average gain of the simulated antenna is 5.5dBi, and the actual measurement and simulation are in good agreement. The upper sideband suppression of the antenna exceeds 30dB, and the lower sideband suppression exceeds 10dB. The antenna has a steeper cut-off frequency band.Compared with other types of filter antennas, the filter antennas designed in this chapter have a simpler structure, more radiation nulls, relatively fewer stacks and lower cost, higher upper sideband rejection, lower profile, and lower cost. The wide working bandwidth basically covers the 24.25~29.5GHz 5G millimeter wave frequency band at home and abroad, and has high application value.In order to verify the scanability of the antenna based on the single-mode resonator filter,A 4×4 antenna array is designed through the combination of beamforming chips and antennas, and two voltage regulators and 4 beamforming chips are integrated on the board. Each forming chip contains 4 channels, each Each channel is connected to the corresponding antenna unit, and a circle of dummy elements are placed around the active antenna array, and each dummy element is connected to a 50-ohm matching resistor to simulate the surrounding environment of the antenna. Divider, the power divider has a 100 ohm resistor connected to the internal blind hole soldering to achieve good isolation between channels.The antenna test is directly obtained by using a network analyzer. One port is connected to the test antenna, and the other port is connected to the standard horn antenna (21.7~33GHz). The gain of the standard horn antenna in the band is basically stable. When calibrating the phased array beam pointing, 26GHz is used for calibration Center, so the filter characteristics of the antenna under test can be obtained directly.This filtering characteristic combines the filtering characteristics of the antenna itself, the gain unbalance characteristic between different channels of the chip, the gain drop characteristic of the chip on both sides of the frequency band, and the gain drop characteristic caused by the inconsistency of the frequency band of the receiving speaker.The large gain fluctuation in the band is mainly due to the inductive or capacitive output impedance of the chip. When it is connected with the relatively sudden impedance of the filter antenna, it is easy to cause a large impedance mismatch at some frequencies, resulting in a large jitter in the band. . The gain trend of the active filter antenna array is basically the same as that of the chip gain, indicating that the final in-band filtering characteristics of the array mainly depend on the gain flatness of the chip.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stacked patches filtenna and single-layer filtenna</title>
+      <link>https://example.com/project/example4/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example4/</guid>
+      <description>&lt;p&gt;The first type of antenna is based on short-circuit via loading, which disturbs the current distribution on the surface of the driven patch at the bottom side band, and introduces a filter antenna with additional zero points.Covering the 24.25~29.5GHz 5G millimeter wave broadband communication frequency band.It has the characteristics of broadband, low profile, simple structure, and multiple radiation nulls, and is very suitable for 5G millimeter wave broadband communication applications.&lt;/p&gt;
+&lt;p&gt;The second filter antenna is based on a single-layer PCB structure that strategically adjusts the position of the feed point to excite a directional pattern of radiation in-band, while the pattern generated out-of-band can well make the The electric fields cancel each other out, basically no radiation is formed to the outside.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Millimeter Wave Broadband Circularly Polarized Antenna</title>
+      <link>https://example.com/project/example5/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example5/</guid>
+      <description>&lt;p&gt;For 5G millimeter wave broadband wireless communication and K-band and Ka-band satellite communication,Proposed and designed a millimeter-wave broadband circularly polarized electromagnetic dipole antenna, based on the traditional linearly polarized electromagnetic dipole,the electric dipole element and the magnetic dipole element are respectively modified, and an additional magnetic dipole element is introduced, which not only increases the 3dB axial ratio bandwidth of the antenna unit, but also greatly increases the -10dB impedance bandwidth of the antenna.At the same time, in order to improve the antenna gain, a 4×4 antenna array is jointly designed by using a broadband power distribution network.The antenna array is processed and tested, and the test results are in good agreement with the simulation results, which verifies the correctness of the design.The proposed antenna array has the advantages of broadband (impedance bandwidth, 3dB axial ratio bandwidth, 3dB gain bandwidth), low profile, low processing cost, simple structure, flexible design method, etc., and is very suitable for applications such as millimeter wave broadband satellite communication systems.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

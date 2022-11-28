@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>others | Academic</title>
+    <link>https://example.com/tag/others/</link>
+      <atom:link href="https://example.com/tag/others/index.xml" rel="self" type="application/rss+xml" />
+    <description>others</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>others</title>
+      <link>https://example.com/tag/others/</link>
+    </image>
+    
+    <item>
+      <title>Benefit Analysis of Multi-Channel Radar Angular Resolution Based on Txx platform</title>
+      <link>https://example.com/project/example6/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/example6/</guid>
+      <description>&lt;p&gt;Based on the Txx millimeter-wave radar platform, systematically analyzed the points formed within the human body by the millimeter-wave MIMO radar with the increase in the number of channels and the change in the number of solution angles under different angles, different distances, and different attitudes of the human body point cloud Quantity Benefit Analysis.&lt;/p&gt;
+&lt;p&gt;The figure shows only the change in the number of point clouds formed by static and moving human bodies under the current signal processing flow. From the results, it can be seen that moving targets can bring about an increase in the number of detected targets in the Doppler dimension. Provide more target point clouds.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
